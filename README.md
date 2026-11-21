@@ -94,13 +94,10 @@ cadastro, listagem e detalhe.
 
 ## ❧ Estrutura do repositório
 
-text
-.
-├── README.md
-├── diagrama.png
-└── prints/
-    ├── home.png
-    ├── login.png
-    ├── cadastro.png
-    └── detalhe.png
-
+- `README.md`
+- `diagrama.png`
+- `prints/`
+  - `home.png`
+  - `login.png`
+  - `cadastro.png`
+  - `detalhe.png`
