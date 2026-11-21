@@ -62,3 +62,45 @@ Essa realidade foi percebida pelo grupo a partir da própria experiência no amb
 <img width="1008" height="778" alt="diagrama" src="https://github.com/user-attachments/assets/1fb0e048-e0f3-4735-8c4f-e64d64fb02ca" />
 
 
+## ♡ Como usamos IA
+
+| Ferramenta | Para que usamos |
+|------------|-----------------|
+| *Claude (Anthropic)* | Gerar o protótipo do site e as capturas de tela |
+| *ChatGPT* | Sugerir a paleta de cores |
+
+### ✧ Prompt utilizado
+
+text
+Pedimos um protótipo de alta fidelidade de um guia digital (não uma
+plataforma de cursos) para quem quer aprender Libras, com identidade
+amarela, cinco seções na Home e quatro telas obrigatórias: login,
+cadastro, listagem e detalhe.
+
+
+### ✧ O que ficou
+
+- A identidade visual em amarelo
+- A estrutura de páginas
+- A navegação entre telas
+- A busca e os filtros da listagem
+- O modelo de dados que originou as tabelas do banco
+
+### ✧ O que mudou
+
+- O nome do projeto: de *Conecta Libras* para *Sinaliza Libras*
+
+---
+
+## ❧ Estrutura do repositório
+
+text
+.
+├── README.md
+├── diagrama.png
+└── prints/
+    ├── home.png
+    ├── login.png
+    ├── cadastro.png
+    └── detalhe.png
+
